@@ -1,4 +1,4 @@
-#Git Basics para a turma 1TWDPF-2025
+# Git Basics para a turma 1TWDPF-2025
 
 ## Para que serve este repositório
 
